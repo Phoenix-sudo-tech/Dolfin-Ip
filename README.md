@@ -45,6 +45,12 @@ Required Python packages (auto-installed if missing):
 
 ### 🔁 Clone the repository
 ```bash
+
+pip install geopy --break-system-packages    
+pip install ipwhois --break-system-packages  
+pip install geopy --break-system-packages  
+
+
 git clone https://github.com/yourusername/ip-lookup-tool.git
 cd ip-lookup-tool
 
